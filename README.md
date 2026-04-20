@@ -31,3 +31,5 @@ Before the final classification, the 3D feature maps are "unrolled" into a 1D ve
 •	Loss (Cross-Entropy): Measures how "far off" the model's probability predictions are from the true labels. We want this to decrease over time.
 •	Overfitting Check: By comparing Training Accuracy and Validation Accuracy, we can see if the model is memorizing the training data rather than learning general patterns. If training accuracy is much higher than validation accuracy, the model is overfitting.
 
+<img width="506" height="380" alt="Image" src="https://github.com/user-attachments/assets/9cfa2abb-c119-4480-a2e9-7b239d84e9b9" />
+<img width="930" height="506" alt="Image" src="https://github.com/user-attachments/assets/6f45a231-7e6f-4ebb-953a-23a513c92934" />
